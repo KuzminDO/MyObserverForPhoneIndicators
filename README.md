@@ -1,0 +1,2 @@
+# MyObserverForPhoneIndicators
+Observer implementation. 
